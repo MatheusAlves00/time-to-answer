@@ -23,7 +23,6 @@ class AdminsBackoffice::AdminsController < AdminsBackofficeController
   end
 
   def update
-    @admin = Admin.new
     if @admin.update(params_admin)
       redirect_to admins_backoffice_admins_path, notice: "Administrador atualizado com sucesso!"
     else
