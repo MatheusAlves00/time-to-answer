@@ -1,24 +1,62 @@
-# README
+## Time to Answer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Project Introduction](https://github.com/MatheusAlves00/time-to-answer/blob/master/public/readme_images/preview.png)
 
-Things you may want to cover:
+> Status: Developing ⚠️
 
-* Ruby version
+## Description
 
-* System dependencies
+...  The project is more or less a resolution site for contest questions.
 
-* Configuration
+## Technology
 
-* Database creation
+Here are the technologies used in  this  project.
 
-* Database initialization
+*  Ruby version 2.5.0
 
-* How to run the test suite
+*  Rails version 5.2.4
 
-* Services (job queues, cache servers, search engines, etc.)
+*  Sqlite
 
-* Deployment instructions
+## Services Used
 
-* ...
+*  Github
+
+## Ruby Gems
+
+*  Devise
+*  Rails i18n
+*  TTY-spinner
+*  Faker
+*  Kaminari
+*  Kaminari-i18n
+
+## Getting started
+
+*  To  install gems:
+
+> $  bundle install
+
+*  To  create the bank and  do  as  migrations:
+
+> $  rake db:create db:migrate db:seed
+
+*  To  run the project:
+
+> $  rails  s
+
+## Features
+
+-  Create, view, edit and delete administrators.
+
+## Links
+
+-  Repository:  https://github.com/MatheusAlves00/time-to-answer
+
+## Authors
+
+*  **Matheus Alves de Almeida**:  @MatheusAlves00  (https://github.com/MatheusAlves00)
+
+Please follow github and  join us!
+
+Thanks to  visiting me and  good coding!
