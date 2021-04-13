@@ -12,7 +12,7 @@
         other: Assuntos
       question:
         one: Pergunta
-        othe: Perguntas
+        other: Perguntas
     attributes:
       admin:
         id: Códgio
