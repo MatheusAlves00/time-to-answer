@@ -1,6 +1,6 @@
 ## Time to Answer
 
-![Project Introduction](https://github.com/MatheusAlves00/time-to-answer/blob/master/public/readme_images/preview.png)
+![Project Introduction](https://github.com/MatheusAlves00/time-to-answer/blob/master/public/readme_images/preview.gif)
 
 > Status: Developing ⚠️
 
