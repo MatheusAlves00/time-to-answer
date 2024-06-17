@@ -2,8 +2,6 @@
 
 ![Project Introduction](https://github.com/MatheusAlves00/time-to-answer/blob/master/public/readme_images/preview.gif)
 
-> Status: Developing ⚠️
-
 ## Description
 
 ...  The project is more or less a resolution site for contest questions.
